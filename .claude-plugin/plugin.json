@@ -1,0 +1,12 @@
+{
+  "name": "ytb-storage",
+  "description": "Google Cloud Storage and YouTube upload automation skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClickAround",
+    "email": "clickaround8@gmail.com"
+  },
+  "homepage": "http://168.107.56.106/clickaround/",
+  "license": "MIT",
+  "keywords": ["claude-code", "mcp", "automation"]
+}
