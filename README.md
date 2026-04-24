@@ -14,3 +14,8 @@ Google Cloud Storage and YouTube upload automation skills.
 ## License
 
 MIT — clickaround8@gmail.com
+
+
+## Latest posts
+
+- [2026-04-24] New: http://168.107.56.106/clickaround/blog/2026-04-24-ytb-storage.html
